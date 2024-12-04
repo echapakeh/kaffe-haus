@@ -220,7 +220,7 @@ body {
 }
 
 .menu .row .menu-card1 img {
-    width: 80%;
+    width: 50%;
     text-align: center;
     border-radius: 100%;
 }
@@ -231,12 +231,12 @@ body {
 
 .menu .row .menu-card img{
     text-align: center;
-    border-radius: 100%;
+    border-radius: 50%;
     width: 80%;
 }
 
 .menu .row .menu-card .menu-card-title {
-    margin: 1rem auto 0.5rem;
+    margin: 1.5rem auto 0.5rem;
 }
 
 /* Contact Section */

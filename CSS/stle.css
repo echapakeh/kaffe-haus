@@ -240,6 +240,11 @@ body {
 }
 
 /* Contact Section */
+
+.contact p,
+.contact p {
+    margin-bottom: 1rem;
+}
 .contact .row {
     display: flex;
     margin-top: 2rem;
